@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAz204LearningWebApi", "AzureAz204LearningWebApi.csproj", "{80B40E6E-EA8B-4E9B-9B2F-C5CDE2813935}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAz204LearningWebApi", "AzureAz204LearningWebApi\AzureAz204LearningWebApi.csproj", "{E6F37684-CF6E-40A1-9162-67AAEA88392F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80B40E6E-EA8B-4E9B-9B2F-C5CDE2813935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80B40E6E-EA8B-4E9B-9B2F-C5CDE2813935}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80B40E6E-EA8B-4E9B-9B2F-C5CDE2813935}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80B40E6E-EA8B-4E9B-9B2F-C5CDE2813935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F37684-CF6E-40A1-9162-67AAEA88392F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F37684-CF6E-40A1-9162-67AAEA88392F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F37684-CF6E-40A1-9162-67AAEA88392F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F37684-CF6E-40A1-9162-67AAEA88392F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {58AB416B-C893-4CFF-9152-579AEE2DCD8A}
+		SolutionGuid = {03F3C2E3-16E9-4C3F-9CC4-8944BEE21109}
 	EndGlobalSection
 EndGlobal

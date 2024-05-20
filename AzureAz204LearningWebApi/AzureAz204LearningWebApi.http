@@ -1,4 +1,4 @@
-@AzureAz204LearningWebApi_HostAddress = http://localhost:5298
+@AzureAz204LearningWebApi_HostAddress = http://localhost:5182
 
 GET {{AzureAz204LearningWebApi_HostAddress}}/weatherforecast/
 Accept: application/json
